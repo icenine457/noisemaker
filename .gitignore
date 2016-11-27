@@ -57,3 +57,6 @@ Session.vim
 *~
 # auto-generated tag files
 tags
+
+certificates/*
+!certificates/README.md

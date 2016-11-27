@@ -1,0 +1,1 @@
+var player = require('play-sound')(opts = {})player.play('./test/laugh.mp3', function(err){  if (err) {    throw err    console.log(JSON.stringify(err, null, 2))  }})

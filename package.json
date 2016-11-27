@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/icenine457/noisemaker/issues"
   },
-  "homepage": "https://github.com/icenine457/noisemaker#readme"
+  "homepage": "https://github.com/icenine457/noisemaker#readme",
+  "dependencies": {
+    "play-sound": "^1.1.1"
+  }
 }
